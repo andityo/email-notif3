@@ -1,0 +1,76 @@
+body, html {
+    padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+.logo {
+    padding: 30px 0 0 10px;
+    height: 80px;
+    margin: 0 5% 0 5%; 
+}
+
+.main-text{
+    margin: 5%;
+}
+
+main, h6{
+    color: #373e41;
+}
+
+main, p{
+    color: #373e41;
+}
+
+.my-4 {
+    color: #014a62;
+}
+
+.btn {
+    padding: 20px 40px 20px 40px;
+    margin: auto;
+    display: block;
+    color: #014a62;
+}
+
+button {
+    color: #014a62;
+}
+
+.main-text p{
+    padding-top: 30px;
+}
+
+.contact-us {
+    background-color: #f7f8f9;
+    text-align: right;
+    padding: 30px 0 30px 0;
+}
+
+.contact-us p{
+    color: #a9a8a8;
+    padding-right: 5%;
+}
+
+footer {
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 30px 0 30px 0; 
+}
+
+.footer-logo {
+    padding-bottom: 30px;
+    height: 65px;
+}
+
+.text-footer{
+    border-spacing: 100px;
+    color: #6f6f6f;
+}
+
+.social-icon {
+    padding: 0 30px 0 30px;
+    height: 20px;
+}

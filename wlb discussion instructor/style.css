@@ -1,0 +1,103 @@
+body, html {
+    padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+.logo {
+    padding: 20px 0 0 10px;
+    height: 70px;
+    margin: 0 3% 20px 3%; 
+}
+
+.main-text {
+    margin: 5%;
+}
+
+.btn {
+    margin: 5% 20% 0 20% ;
+    display: block;
+    color: #014a62;
+}
+
+button {
+    width: 20vh;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.media {
+    margin: 0 20% 0 20%;
+    padding: 0 0 20px 0;
+}
+
+.media h6 {
+    padding-top: 3vh;
+}
+
+h5 {
+    margin: 0 0 0 10%;
+    padding: 20px 0 20px 0;
+}
+
+h3 {
+    margin: auto;
+    padding: 10px 0 10px 0;
+}
+
+.status {
+    text-align: center;
+    background-color: #014a62;
+    color: #ffffff;
+    margin: 0 10% 0 10%;
+}
+
+.flex-container-2 {
+    background-color: #f7f8f9;
+    margin: 0 10% 0 10%;
+}
+
+.flex-container-3 {
+    background-color: #014a62;
+    margin: 0 10% 0 10%;
+    padding: 10px 0 10px 0;
+}
+
+
+.contact-us {
+    background-color: #f7f8f9;
+    text-align: right;
+    padding: 30px 0 30px 0;
+}
+
+.contact-us p{
+    color: #a9a8a8;
+    padding-right: 5%;
+}
+
+
+footer {
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 30px 0 30px 0; 
+    width: 100%;
+}
+
+.footer-logo {
+    padding-bottom: 30px;
+    height: 65px;
+}
+
+.text-footer{
+    border-spacing: 100px;
+    color: #6f6f6f;
+}
+
+.social-icon {
+    padding: 0 30px 0 30px;
+    height: 20px;
+}
