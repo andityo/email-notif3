@@ -21,18 +21,22 @@ body, html {
 
 .left {
     float: left;
-    padding-left: 30px;
+    margin-left: 1%;
 }
 
 .right {
     float: right;
-    padding-right: 30px;
+    margin-right: 1%;
 }
 
 .status {
-    text-align: center;
     background-color: #014a62;
     color: #ffffff;
+    width: 100%;
+}
+.status p{
+    text-align: center;
+    width: 100%;
 }
 
 .payment {
@@ -67,7 +71,9 @@ body, html {
     border-collapse: collapse;
     box-sizing: border-box;
     width: 80%;
-    margin: 0 20% 5% 20%;
+    margin: 0 20% 0 20%;
+    overflow-x: auto;
+    border-collapse: collapse;
 }
 
 .payment-info th{

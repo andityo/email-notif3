@@ -17,21 +17,18 @@ body, html {
 }
 
 .btn {
-    margin: 5% 20% 0 20% ;
+    margin: 5% 10% 0 10% ;
     display: block;
     color: #014a62;
 }
 
-button {
-    width: 20vh;
-}
 
 .wrapper {
     width: 100%;
 }
 
 .media {
-    margin: 0 20% 0 20%;
+    margin: 0 10% 0 10%;
     padding: 0 0 20px 0;
 }
 

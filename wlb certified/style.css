@@ -28,11 +28,25 @@ main {
 }
 
 .greetings {
-	padding: 10px 0 10px 0;
+    padding: 10px 0 0 0;
+    margin-left: 10%;
 }
 
 .main-text{
     margin: 5%;
+}
+
+.order-detail {
+    border-collapse: collapse;
+    padding: 20px 0 10px 0;
+    margin: 0 10% 0 10%;
+    overflow-x: auto;
+}
+
+.order-detail td {
+    padding: 8px;
+    text-align: left;
+    font-size: 20px solid black;
 }
 
 .contact-us {
@@ -46,10 +60,12 @@ main {
     padding-right: 5%;
 }
 
+
 footer {
     background-color: #e2e2e2;
     text-align: center;
     padding: 30px 0 30px 0; 
+    width: 100%;
 }
 
 .footer-logo {

@@ -64,9 +64,10 @@ body, html {
     border-collapse: collapse;
     box-sizing: border-box;
     width: 80%;
-    margin: 0 20% 5% 20%;
+    margin: 0 20% 0 20%;
+    overflow-x: auto;
+    border-collapse: collapse;
 }
-
 .payment-info th{
     padding: 8px;
     text-align: left;
