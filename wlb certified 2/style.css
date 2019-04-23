@@ -1,0 +1,91 @@
+body, html {
+    padding: 0;
+	margin: 0;
+	height: 117%;
+	width: 100%;
+    position: relative;
+}
+
+.cer-image { 
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:url(./images/sertifikat-back@3x.jpg);
+    background-repeat:no-repeat;
+    background-size:100% auto;
+}
+
+.cer-name {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    padding-top:32%;  
+    text-align:center;
+    font-size:3vw;
+    color:black;
+}
+
+.cer-course {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    padding-top:45%;  
+    text-align:center;
+    font-size:3vw;
+    color:black;
+}
+
+.cer-instructor1 {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    padding: 60% 15% 0 0;  
+    text-align:center;
+    font-size:2vw;
+    color:black;
+}
+
+.cer-instructor2 {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    padding: 60% 0 0 40%;  
+    text-align:center;
+    font-size:2vw;
+    color:black;
+}
+
+.cer-number {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    padding: 61.8% 64.3% 0 0;   
+    text-align:center;
+    font-size:1vw;
+    color:black;
+}
+
+.cer-url {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    padding: 63.2% 62% 0 0; 
+    text-align:center;
+    font-size:1vw;
+    color:black;
+}
+
+
+@media (min-width: 1200px) {
+    .cer-image{
+      font-size:60px;
+    }
+}

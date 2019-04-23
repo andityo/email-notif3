@@ -27,6 +27,11 @@ main {
     padding: 10px 0 10px 0;
 }
 
+h3 {
+    margin: auto;
+    padding: 10px 0 10px 0;
+}
+
 .greetings {
     padding: 10px 0 0 0;
     margin-left: 10%;
